@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-multipart
+langchain
+openai
+chromadb
+alembic
+langchain-community
