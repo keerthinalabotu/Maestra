@@ -1,0 +1,7 @@
+TEST_FILE = r"C:/Users/intelaipc/Downloads/19072018160748.pdf"
+DOWNLOADED_DATASETS_PATH = r"C:\Users\hermana\LibriSpeech_Cache"
+TEST_FILE_SIMPLE = r"C:\Users\intelaipc\Downloads\Testing the llama model.pdf"
+# SAMPLE_AUDIO = r"C:\Users\intelaipc\Downloads\sample-0"
+SAMPLE_AUDIO=r"C:\Users\intelaipc\Downloads\sample-0.mp3"
+SAMPLE_AUDIO_MY_VOICE= r"C:\Users\intelaipc\Downloads\Record (online-voice-recorder.com).mp3"
+SAMPLE_AUDIO_VOICE_2 = r"C:\Users\intelaipc\Downloads\voice_sample_2.mp3"
