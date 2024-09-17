@@ -1,0 +1,53 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies
+node_modules/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Java build directories
+target/
+*.class
+
+# IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Log files
+*.log
+
+# Environment variable files
+.env
+.venv
+
+# Mac OS specific files
+*.DS_Store
+
+# Windows specific files
+*.cab
+*.msi
+*.pdb
+
+# Build output
+dist/
+build/
+
+# NPM package files
+package-lock.json
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Coverage directory used by tools like istanbul
+coverage/
